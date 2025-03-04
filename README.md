@@ -29,6 +29,7 @@ The answer for **Question 2** is available in the `student_performance` director
 
 ### Folder Structure:
 
+```
 student_performance/
 ├── data/
 │   └── StudentsPerformance.csv            # Raw dataset containing student performance information
@@ -41,7 +42,7 @@ student_performance/
 │   │   ├── scatter_math_reading.png       # Scatter plot for math vs reading scores
 │   │   ├── heatmap_correlation.png        # Heatmap for correlation matrix
 │   │   └── pie_lunch_type.png             # Pie chart for lunch type distribution
-
+```
 
 ### Description:
 - **Dataset**: The dataset for student performance is located in `data/StudentsPerformance.csv`.
