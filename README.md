@@ -2,6 +2,10 @@
 
 This repository contains solutions for two questions from the PDS Assignment 1.
 
+- Name : Sai Karthik Patri
+- Student ID: 16361167
+- StudentMail : sphtb@umsystem.edu
+
 ---
 
 ## Question 1 - Frailty Prediction Workflow
